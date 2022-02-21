@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on React, Angular, ionic and .NET 6
+- 🔭 I’m currently working on React, .NET 6, Angular, and Ionic
 - 🌱 I’m currently learning React, Python
 - 📫 You can reach me on twitter [@prashantkurleka](https://twitter.com/prashantkurleka)
 <!-- - 👯 I’m looking to collaborate on ... -->
