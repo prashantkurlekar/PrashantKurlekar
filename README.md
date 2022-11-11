@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on React, .NET, Angular, Ionic, Firebase, Microsoft Azure
+- 🔭 I’m currently working on React, .NET, Angular, Ionic, Firebase and Microsoft Azure
 <!-- - 🌱 I’m currently learning Python, React Native -->
 - 📫 You can reach me on twitter [@prashantkurleka](https://twitter.com/prashantkurleka)
 <!-- - 👯 I’m looking to collaborate on ... -->
